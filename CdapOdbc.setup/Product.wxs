@@ -142,7 +142,6 @@
           <RegistryValue Type="string" Name="DriverODBCVer" Value="03.80"/>
           <RegistryValue Type="string" Name="ConnectFunctions" Value="NYN"/>
           <RegistryValue Type="string" Name="APILevel" Value="0"/>
-          <RegistryValue Type="string" Name="CpTimeout" Value="120"/>
         </RegistryKey>
       </Component>
       <Component Id="RgistryEntriesHKCU" Win64="$(var.Win64)" Guid="*">
